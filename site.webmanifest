@@ -1,7 +1,7 @@
 {
-  "name": "The Coffee Bean & Tea Leaf — Vía Israel",
+  "name": "The Coffee Bean & Tea Leaf — San Francisco",
   "short_name": "CBTL Countdown",
-  "description": "Cuenta regresiva para el soft opening de The Coffee Bean & Tea Leaf en Vía Israel.",
+  "description": "Cuenta regresiva para el soft opening de The Coffee Bean & Tea Leaf en San Francisco.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#EBE3F4",
